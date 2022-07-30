@@ -13,28 +13,28 @@
 	<link>https://rokenten.github.io/page</link>
 	<description>My blog</description>
 	<language>en</language>
-	<lastBuildDate>Sat, 30 Jul 2022 02:00:02 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 30 Jul 2022 02:30:02 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<item>
-		<title>даты</title>
-		<description><![CDATA[<p>даты</p>]]></description>
-		<link>https://rokenten.github.io/page/?r-даты</link>
+		<title>halfyear</title>
+		<description><![CDATA[<p>halfyear</p>]]></description>
+		<link>https://rokenten.github.io/page/?r-halfyear</link>
 		<dc:creator>Ralph Wiggum</dc:creator>
-		<guid>https://rokenten.github.io/page/?r-даты</guid>
-		<pubDate>Sat, 30 Jul 2022 02:00:02 +0000</pubDate>
-		<content:encoded><![CDATA[даты]]></content:encoded>
+		<guid>https://rokenten.github.io/page/?r-halfyear</guid>
+		<pubDate>Sat, 30 Jul 2022 02:30:02 +0000</pubDate>
+		<content:encoded><![CDATA[halfyear]]></content:encoded>
 	</item>
 
 	<item>
-		<title>продолжит</title>
-		<description><![CDATA[<p>продолжит</p>]]></description>
-		<link>https://rokenten.github.io/page/?l-продолжит</link>
+		<title>justice</title>
+		<description><![CDATA[<p>justice</p>]]></description>
+		<link>https://rokenten.github.io/page/?l-justice</link>
 		<dc:creator>Ralph Wiggum</dc:creator>
-		<guid>https://rokenten.github.io/page/?l-продолжит</guid>
-		<pubDate>Sat, 30 Jul 2022 02:00:02 +0000</pubDate>
-		<content:encoded><![CDATA[продолжит]]></content:encoded>
+		<guid>https://rokenten.github.io/page/?l-justice</guid>
+		<pubDate>Sat, 30 Jul 2022 02:30:02 +0000</pubDate>
+		<content:encoded><![CDATA[justice]]></content:encoded>
 	</item>
 
 </channel>
